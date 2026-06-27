@@ -33,6 +33,9 @@ main {
 }
 
 .language-switch {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
   text-align: right;
   font-size: 0.92rem;
   margin: -6px 0 10px;
